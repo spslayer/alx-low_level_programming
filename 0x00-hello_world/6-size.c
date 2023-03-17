@@ -2,6 +2,7 @@
 /*this is a programm that uses printf*/
 int main(void)
 {
+/*this is main*/
 	char a;
 	int b;
 	long int c;
