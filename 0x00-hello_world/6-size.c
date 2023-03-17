@@ -1,5 +1,7 @@
 #include <stdio.h>
-/*this is a programm that uses printf*/
+/**
+ * this is a programm that uses printf
+ */
 int main(void)
 {
 	/*this is main*/
