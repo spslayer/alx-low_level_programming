@@ -4,8 +4,7 @@
 /**
  * main - Entry point
  *
- * Description: 'the program's description'
- * @parameter: describe the parameter
+ * Description: 'the program's description'r
  *
  * Return: Always 0 (Success)
  */
