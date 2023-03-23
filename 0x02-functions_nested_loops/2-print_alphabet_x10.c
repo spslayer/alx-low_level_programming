@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10
+ * print_alphabet_x10 - This is a description
+ * Description: Longer description of the function)
  * Return: void
  */
 
