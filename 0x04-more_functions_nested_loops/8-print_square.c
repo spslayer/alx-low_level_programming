@@ -1,8 +1,8 @@
 nclude "main.h"
 
 /**
- * print_square - Prints
- * @size: The number
+ * print_square - Prints n squares according n number  of times
+ * @size: The number of squares/number of times
  * Return: empty
  */
 
